@@ -1,10 +1,27 @@
 html {
     background-color: black;
+    font-family: Verdana;
+    text-align: center;
+    color: white;
+
 }
-h1 {font-family: Verdana;
+h1 {
     font-size: 50px;
     font-weight: normal;
-    color: red;
-    text-align: centered;
 }
+h2 {
+    font-weight: 300;
+    font-size: 46px;
+}
+h3 {
+    font-size: 21px;
+    color: gray;
+}
+nav {
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration-line: underline;
+}
+p {
 
+}
